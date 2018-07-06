@@ -28,3 +28,8 @@ $env:clientSecret="ENTER_YOUR_SECRET";
 $env:tokenEndpoint="ENTER_YOUR_TOKEN_ISSUING_ENDPOINT";
 
 
+------------------------
+
+npm install
+
+npm start
